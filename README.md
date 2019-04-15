@@ -18,8 +18,11 @@ The player needs to be setup to not use power savings to allow that the service 
 The service will automatically enable verbose mode 3 on the player upon successful connect, described on page 18 in the referenced pdf.
 
 Statuses will be sent to the following mqtt topics
+
 BASE = configured base topic
+
 BASE/raw - Raw messages as detailed in the referenced pdf
+
 BASE/UPW - Power status
 BASE/UPL - Playback status
 BASE/UVL - Volume level
