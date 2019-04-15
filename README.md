@@ -32,3 +32,5 @@ BASE = configured base topic
 * BASE/UAR - Aspect ratio status
 * BASE/UTC - Time code
 * BASE/UVO - Video resolution
+
+Future update will include the possibility to send commands to the player via mqtt
