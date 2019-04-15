@@ -20,15 +20,15 @@ The service will automatically enable verbose mode 3 on the player upon successf
 Statuses will be sent to the following mqtt topics:
 
 BASE = configured base topic
-BASE/raw    # Raw messages as detailed in the referenced pdf
-BASE/UPW    # Power status
-BASE/UPL    # Playback status
-BASE/UVL    # Volume level
-BASE/UDT    # Disc type
-BASE/UAT    # Audio type
-BASE/UST    # Subtitle type
-BASE/UIS    # Input source
-BASE/U3D    # 3D status
-BASE/UAR    # Aspect ratio status
-BASE/UTC    # Time code
-BASE/UVO    # Video resolution
+BASE/raw - Raw messages as detailed in the referenced pdf
+BASE/UPW - Power status
+BASE/UPL - Playback status
+BASE/UVL - Volume level
+BASE/UDT - Disc type
+BASE/UAT - Audio type
+BASE/UST - Subtitle type
+BASE/UIS - Input source
+BASE/U3D - 3D status
+BASE/UAR - Aspect ratio status
+BASE/UTC - Time code
+BASE/UVO - Video resolution
